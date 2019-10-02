@@ -9,8 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-```markdown
-Syntax highlighted code block
+I'm making something I do not know.
 
 # Header 1
 ## Header 2
